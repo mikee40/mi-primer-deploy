@@ -1,0 +1,96 @@
+ID_Transaccion,Fecha_Hora,Producto,Cantidad,Precio_Unitario,Total_Ventas,Total_Costos,Ganancia_Neta,Tipo_Cliente,Metodo_Pago,Canal_Venta,Satisfaccion_Cliente,Incluye_Propina
+TRX-001,2026-02-14 09:21,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Tarjeta de Crédito,Delivery,4.6,True
+TRX-002,2026-02-23 15:52,Panini Caprese,2,7.5,15.0,5.26,9.74,Miembro VIP,Efectivo,Delivery,4.1,True
+TRX-003,2026-02-24 16:32,Filtrado V60,1,5.5,5.5,1.92,3.58,Miembro VIP,Tarjeta de Crédito,Presencial,4.8,True
+TRX-004,2026-02-10 18:24,Espresso,1,3.5,3.5,1.22,2.28,Regular,Transferencia Móvil,Delivery,5.0,True
+TRX-005,2026-02-09 11:21,Croissant de Almendras,1,3.8,3.8,1.33,2.47,Nuevo,Tarjeta de Crédito,Delivery,3.4,True
+TRX-006,2026-02-18 10:48,Panini Caprese,1,7.5,7.5,5.26,2.24,Nuevo,Transferencia Móvil,Presencial,3.9,True
+TRX-007,2026-01-25 15:06,Espresso,1,3.5,3.5,1.22,2.28,Regular,Tarjeta de Crédito,Delivery,4.9,True
+TRX-008,2026-01-28 17:39,Panini Caprese,2,7.5,15.0,5.26,9.74,Miembro VIP,Efectivo,Delivery,4.7,True
+TRX-009,2026-01-14 17:01,Espresso,2,3.5,7.0,1.22,5.78,Regular,Transferencia Móvil,Presencial,4.0,False
+TRX-010,2026-02-01 10:11,Espresso,1,3.5,3.5,1.22,2.28,Regular,Transferencia Móvil,Delivery,4.4,True
+TRX-011,2026-02-27 10:14,Croissant de Almendras,1,3.8,3.8,1.33,2.47,Regular,Efectivo,Presencial,3.4,False
+TRX-012,2026-01-25 09:21,Croissant de Almendras,1,3.8,3.8,1.33,2.47,Miembro VIP,Tarjeta de Crédito,Presencial,4.5,True
+TRX-013,2026-01-09 09:05,Cheesecake de Maracuyá,1,6.0,6.0,2.1,3.9,Regular,Transferencia Móvil,Presencial,3.4,True
+TRX-014,2026-02-02 20:30,Espresso,3,3.5,10.5,1.22,9.28,Nuevo,Tarjeta de Crédito,Presencial,4.1,True
+TRX-015,2026-01-24 16:59,Latte Macchiato,1,4.8,4.8,1.68,3.12,Miembro VIP,Tarjeta de Crédito,Delivery,3.3,True
+TRX-016,2026-01-05 13:41,Muffin de Arándanos,1,3.2,3.2,1.12,2.08,Nuevo,Tarjeta de Crédito,Delivery,3.4,False
+TRX-017,2026-02-14 20:41,Filtrado V60,3,5.5,16.5,1.92,14.58,Regular,Tarjeta de Crédito,Delivery,3.8,True
+TRX-018,2026-01-19 19:40,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Efectivo,Presencial,3.5,True
+TRX-019,2026-02-23 16:03,Filtrado V60,2,5.5,11.0,1.92,9.08,Nuevo,Transferencia Móvil,Presencial,3.6,False
+TRX-020,2026-01-22 17:58,Mocaccino,3,5.2,15.6,1.82,13.78,Nuevo,Transferencia Móvil,Delivery,4.9,True
+TRX-021,2026-01-30 08:31,Filtrado V60,1,5.5,5.5,1.92,3.58,Nuevo,Efectivo,Delivery,4.3,False
+TRX-022,2026-01-18 19:15,Espresso,1,3.5,3.5,1.22,2.28,Regular,Tarjeta de Crédito,Presencial,3.5,True
+TRX-023,2026-02-05 13:02,Espresso,2,3.5,7.0,1.22,5.78,Nuevo,Efectivo,Presencial,4.3,True
+TRX-024,2026-01-28 17:28,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Transferencia Móvil,Presencial,3.4,False
+TRX-025,2026-02-22 18:31,Cappuccino,1,4.5,4.5,1.58,2.92,Miembro VIP,Transferencia Móvil,Presencial,3.1,True
+TRX-026,2026-01-16 11:27,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Efectivo,Delivery,4.1,True
+TRX-027,2026-02-25 15:47,Panini Caprese,1,7.5,7.5,5.26,2.24,Regular,Transferencia Móvil,Delivery,2.8,False
+TRX-028,2026-02-12 18:03,Croissant de Almendras,3,3.8,11.4,1.33,10.07,Regular,Transferencia Móvil,Presencial,4.0,True
+TRX-029,2026-01-19 20:25,Espresso,2,3.5,7.0,1.22,5.78,Regular,Tarjeta de Crédito,Presencial,3.5,True
+TRX-030,2026-02-19 09:37,Filtrado V60,2,5.5,11.0,1.92,9.08,Nuevo,Efectivo,Delivery,4.5,True
+TRX-031,2026-02-04 18:41,Muffin de Arándanos,1,3.2,3.2,1.12,2.08,Regular,Transferencia Móvil,Delivery,4.2,True
+TRX-032,2026-02-05 17:15,Espresso,2,3.5,7.0,1.22,5.78,Nuevo,Tarjeta de Crédito,Delivery,4.3,True
+TRX-033,2026-01-09 11:00,Latte Macchiato,2,4.8,9.6,1.68,7.92,Nuevo,Tarjeta de Crédito,Presencial,3.8,True
+TRX-034,2026-02-06 17:51,Latte Macchiato,1,4.8,4.8,1.68,3.12,Regular,Tarjeta de Crédito,Presencial,4.5,True
+TRX-035,2026-01-12 11:24,Panini Caprese,1,7.5,7.5,5.26,2.24,Nuevo,Transferencia Móvil,Delivery,4.3,True
+TRX-036,2026-02-08 19:42,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Tarjeta de Crédito,Delivery,4.8,True
+TRX-037,2026-02-17 19:35,Tarta de Chocolate,1,5.5,5.5,1.92,3.58,Regular,Tarjeta de Crédito,Presencial,4.2,True
+TRX-038,2026-01-12 19:10,Latte Macchiato,1,4.8,4.8,1.68,3.12,Miembro VIP,Tarjeta de Crédito,Presencial,4.5,False
+TRX-039,2026-01-07 19:16,Espresso,2,3.5,7.0,1.22,5.78,Miembro VIP,Efectivo,Delivery,4.4,True
+TRX-040,2026-02-23 18:50,Panini Caprese,1,7.5,7.5,5.26,2.24,Miembro VIP,Tarjeta de Crédito,Delivery,4.3,False
+TRX-041,2026-02-07 08:35,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Tarjeta de Crédito,Delivery,4.7,True
+TRX-042,2026-01-20 18:51,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Efectivo,Presencial,3.7,True
+TRX-043,2026-02-28 17:59,Muffin de Arándanos,1,3.2,3.2,1.12,2.08,Nuevo,Tarjeta de Crédito,Presencial,4.3,False
+TRX-044,2026-02-18 10:14,Espresso,1,3.5,3.5,1.22,2.28,Regular,Transferencia Móvil,Presencial,3.9,True
+TRX-045,2026-01-10 13:46,Croissant de Almendras,2,3.8,7.6,1.33,6.27,Regular,Tarjeta de Crédito,Delivery,4.2,True
+TRX-046,2026-02-22 17:54,Latte Macchiato,2,4.8,9.6,1.68,7.92,Nuevo,Tarjeta de Crédito,Delivery,4.0,False
+TRX-047,2026-02-15 15:47,Cold Brew,1,5.0,5.0,1.75,3.25,Miembro VIP,Efectivo,Delivery,3.5,True
+TRX-048,2026-02-08 17:03,Croissant de Almendras,1,3.8,3.8,1.33,2.47,Nuevo,Tarjeta de Crédito,Presencial,3.6,True
+TRX-049,2026-02-13 14:14,Filtrado V60,3,5.5,16.5,1.92,14.58,Regular,Transferencia Móvil,Delivery,4.1,True
+TRX-050,2026-01-24 16:33,Latte Macchiato,2,4.8,9.6,1.68,7.92,Regular,Tarjeta de Crédito,Presencial,4.0,True
+TRX-051,2026-01-01 08:35,Espresso,1,3.5,3.5,1.22,2.28,Regular,Tarjeta de Crédito,Presencial,3.4,True
+TRX-052,2026-01-18 13:45,Espresso,2,3.5,7.0,1.22,5.78,Regular,Efectivo,Delivery,4.8,True
+TRX-053,2026-01-13 15:10,Latte Macchiato,1,4.8,4.8,1.68,3.12,Miembro VIP,Tarjeta de Crédito,Presencial,4.1,True
+TRX-054,2026-02-25 15:02,Croissant de Almendras,2,3.8,7.6,1.33,6.27,Nuevo,Efectivo,Presencial,4.4,True
+TRX-055,2026-02-09 17:48,Espresso,3,3.5,10.5,1.22,9.28,Miembro VIP,Tarjeta de Crédito,Presencial,4.5,True
+TRX-056,2026-02-18 20:30,Mocaccino,1,5.2,5.2,1.82,3.38,Nuevo,Tarjeta de Crédito,Delivery,4.6,True
+TRX-057,2026-01-02 08:35,Espresso,2,3.5,7.0,1.22,5.78,Regular,Transferencia Móvil,Presencial,4.2,True
+TRX-058,2026-01-10 18:24,Filtrado V60,2,5.5,11.0,1.92,9.08,Nuevo,Tarjeta de Crédito,Delivery,4.1,True
+TRX-059,2026-02-06 09:37,Cappuccino,1,4.5,4.5,1.58,2.92,Nuevo,Tarjeta de Crédito,Presencial,4.3,False
+TRX-060,2026-01-20 18:03,Espresso,2,3.5,7.0,1.22,5.78,Regular,Transferencia Móvil,Presencial,4.2,True
+TRX-061,2026-02-08 19:40,Espresso,1,3.5,3.5,1.22,2.28,Regular,Tarjeta de Crédito,Delivery,4.3,True
+TRX-062,2026-02-19 15:52,Cold Brew,1,5.0,5.0,1.75,3.25,Miembro VIP,Transferencia Móvil,Presencial,3.4,True
+TRX-063,2026-02-22 17:15,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Efectivo,Presencial,3.8,True
+TRX-064,2026-01-04 18:41,Muffin de Arándanos,1,3.2,3.2,1.12,2.08,Nuevo,Tarjeta de Crédito,Delivery,4.1,True
+TRX-065,2026-01-24 16:59,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Transferencia Móvil,Delivery,4.0,True
+TRX-066,2026-01-12 11:00,Latte Macchiato,2,4.8,9.6,1.68,7.92,Miembro VIP,Tarjeta de Crédito,Delivery,4.5,False
+TRX-067,2026-01-07 19:35,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Transferencia Móvil,Presencial,4.0,True
+TRX-068,2026-02-25 15:47,Muffin de Arándanos,2,3.2,6.4,1.12,5.28,Miembro VIP,Efectivo,Presencial,4.1,True
+TRX-069,2026-02-28 17:59,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Efectivo,Delivery,4.5,True
+TRX-070,2026-01-12 19:10,Espresso,2,3.5,7.0,1.22,5.78,Miembro VIP,Tarjeta de Crédito,Presencial,4.7,True
+TRX-071,2026-01-20 18:51,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Tarjeta de Crédito,Presencial,4.2,True
+TRX-072,2026-02-07 08:35,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Efectivo,Delivery,4.6,True
+TRX-073,2026-02-12 18:03,Filtrado V60,2,5.5,11.0,1.92,9.08,Miembro VIP,Tarjeta de Crédito,Delivery,4.8,True
+TRX-074,2026-02-14 20:41,Espresso,1,3.5,3.5,1.22,2.28,Regular,Tarjeta de Crédito,Presencial,4.6,True
+TRX-075,2026-01-19 11:21,Espresso,1,3.5,3.5,1.22,2.28,Regular,Transferencia Móvil,Delivery,4.5,False
+TRX-076,2026-01-25 09:21,Tarta de Chocolate,1,5.5,5.5,1.92,3.58,Regular,Tarjeta de Crédito,Delivery,3.3,False
+TRX-077,2026-02-05 13:02,Cappuccino,1,4.5,4.5,1.58,2.92,Miembro VIP,Tarjeta de Crédito,Presencial,4.2,True
+TRX-078,2026-02-23 18:50,Mocaccino,1,5.2,5.2,1.82,3.38,Miembro VIP,Tarjeta de Crédito,Delivery,4.1,True
+TRX-079,2026-02-18 10:14,Latte Macchiato,1,4.8,4.8,1.68,3.12,Regular,Tarjeta de Crédito,Delivery,4.6,True
+TRX-080,2026-01-09 09:05,Filtrado V60,1,5.5,5.5,1.92,3.58,Nuevo,Tarjeta de Crédito,Presencial,4.3,True
+TRX-081,2026-02-23 16:03,Espresso,1,3.5,3.5,1.22,2.28,Regular,Efectivo,Presencial,4.0,True
+TRX-082,2026-02-27 10:14,Muffin de Arándanos,1,3.2,3.2,1.12,2.08,Miembro VIP,Transferencia Móvil,Delivery,4.4,True
+TRX-083,2026-01-14 17:01,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Tarjeta de Crédito,Delivery,4.0,False
+TRX-084,2026-01-22 17:58,Cappuccino,1,4.5,4.5,1.58,2.92,Miembro VIP,Tarjeta de Crédito,Delivery,3.3,True
+TRX-085,2026-01-16 11:27,Panini Caprese,1,7.5,7.5,5.26,2.24,Nuevo,Efectivo,Delivery,4.4,True
+TRX-086,2026-02-13 14:14,Muffin de Arándanos,1,3.2,3.2,1.12,2.08,Regular,Transferencia Móvil,Presencial,3.4,True
+TRX-087,2026-02-22 18:31,Filtrado V60,2,5.5,11.0,1.92,9.08,Miembro VIP,Tarjeta de Crédito,Delivery,4.6,True
+TRX-088,2026-02-09 11:21,Espresso,2,3.5,7.0,1.22,5.78,Nuevo,Tarjeta de Crédito,Presencial,4.8,True
+TRX-089,2026-01-28 17:28,Espresso,1,3.5,3.5,1.22,2.28,Nuevo,Efectivo,Delivery,4.8,True
+TRX-090,2026-02-15 15:47,Espresso,1,3.5,3.5,1.22,2.28,Miembro VIP,Efectivo,Presencial,4.8,True
+TRX-091,2026-01-30 08:31,Espresso,1,3.5,3.5,1.22,2.28,Regular,Transferencia Móvil,Delivery,4.5,True
+TRX-092,2026-02-01 10:11,Espresso,2,3.5,7.0,1.22,5.78,Regular,Transferencia Móvil,Presencial,4.4,True
+TRX-093,2026-01-10 13:46,Panini Caprese,1,7.5,7.5,5.26,2.24,Nuevo,Efectivo,Delivery,3.4,True
+TRX-094,2026-02-02 20:30,Espresso,2,3.5,7.0,1.22,5.78,Miembro VIP,Transferencia Móvil,Delivery,3.9,True
+TRX-095,2026-02-08 17:03,Espresso,1,3.5,3.5,1.22,2.28,Regular,Efectivo,Presencial,3.5,True
